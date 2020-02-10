@@ -41,7 +41,8 @@ HTML <br/>
 JavaScript <br/>
 Python <br/>
 Google API <br/>
+<br/>
 
 ![Image 1](img/Cruzaster1.jpg)
-![Image 2](img/Cruzaster2jpg)
+![Image 2](img/Cruzaster2.jpg)
 ![Image 2](img/Cruzaster3.jpg)
